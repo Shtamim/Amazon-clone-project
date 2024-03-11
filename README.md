@@ -1,6 +1,6 @@
 # Amazon Front-Page Clone👻
 
-Welcome to the Amazon Front-Page Clone project! This repository contains a simple yet elegant clone of the Amazon front page, crafted using HTML and CSS. The project aims to showcase the fundamental web development skills required to replicate the layout and styling of the renowned Amazon website.
+Welcome to the Amazon Front-Page Clone project! This repository contains a simple yet elegant clone of the Amazon front page, crafted using HTML and CSS. The project aims to showcase the fundamental web development skills required to replicate the layout and styling of the renowned Amazon website.you can visit it here:https://shtamim.github.io/Amazon-clone-project/
 
 ## Table of Contents🐬
 
