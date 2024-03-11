@@ -118,7 +118,7 @@ nav-second{
 }
 /** hero section **/
 .hero-section{
-  background-image: url("Assets/pic/hero_image.jpg");
+  background-image: url("hero_image.jpg");
   background-size:cover;
   height: 350px;
   display: flex;
